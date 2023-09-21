@@ -1,4 +1,10 @@
 *.jpg
 *.gif
 images
+*images
+node_modules
+*node_modules
+img
+*img
 image
+*image
